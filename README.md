@@ -8,6 +8,10 @@ An app to cancel booking done by customers with  java_simple_booking_webapp_2
 - I am purely attempting to learn java from scratch, and refresh myself
 
 ## Screenshots
-- Dummy
+- Show Bookings
 - 
-![ScreenShot](https://raw.githubusercontent.com/danrohangit/java_simple_booking_webapp_2/main/src/main/resources/static/images/index_ss_1.PNG)
+![ScreenShot](https://raw.githubusercontent.com/danrohangit/Java_Simple_Cancel_Booking_App/main/images/ShowBookings1.PNG)
+
+- Cancel Bookings
+- 
+![ScreenShot](https://raw.githubusercontent.com/danrohangit/Java_Simple_Cancel_Booking_App/main/images/CancelBookings1_1.PNG)
